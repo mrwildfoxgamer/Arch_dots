@@ -21,3 +21,89 @@
 @define-color sidebar_fg_color #ffffff;
 @define-color sidebar_border_color @window_bg_color;
 @define-color sidebar_backdrop_color @window_bg_color;
+
+/* ===============================
+   Thunar – Modern Dark Theme
+================================ */
+
+/* Window */
+.thunar {
+  background-color: #0f1117;
+  color: #e6e7eb;
+}
+
+/* Headerbar / Toolbar */
+.thunar toolbar,
+.thunar headerbar {
+  background: rgba(20, 22, 30, 0.9);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  padding: 6px;
+}
+
+/* Sidebar */
+.thunar .sidebar,
+.thunar .shortcuts-pane {
+  background: #11131a;
+  border-right: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+/* Sidebar rows */
+.thunar .sidebar row {
+  border-radius: 10px;
+  margin: 3px 6px;
+  padding: 6px 10px;
+}
+
+.thunar .sidebar row:selected {
+  background: linear-gradient(
+    90deg,
+    rgba(99, 102, 241, 0.35),
+    rgba(99, 102, 241, 0.15)
+  );
+}
+
+/* File view background */
+.thunar .view {
+  background: #0f1117;
+}
+
+/* File / folder items */
+.thunar .view:selected {
+  background: rgba(99, 102, 241, 0.35);
+  border-radius: 12px;
+}
+
+/* Hover effect */
+.thunar .view:hover {
+  background: rgba(255, 255, 255, 0.04);
+  border-radius: 12px;
+}
+
+/* Icons spacing */
+.thunar iconview {
+  padding: 12px;
+}
+
+/* Buttons */
+.thunar button {
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.06);
+  border: none;
+  padding: 6px 10px;
+}
+
+.thunar button:hover {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+/* Path bar */
+.thunar .path-bar button {
+  border-radius: 8px;
+  margin: 2px;
+}
+
+/* Entry (search / path) */
+.thunar entry {
+  border-radius: 10
+
