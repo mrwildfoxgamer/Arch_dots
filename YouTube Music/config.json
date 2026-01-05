@@ -8,7 +8,7 @@
 		"x": 0,
 		"y": 0
 	},
-	"url": "https://music.youtube.com/watch?v=QbLGjeR9bvI&list=OLAK5uy_lVHMvpOgvluHAXWz6IoV5Ya5iS-uARvcw&index=0",
+	"url": "https://music.youtube.com/watch?v=2xtKhqbNBoY&list=RDAMVMFkzRyHa9a6g&index=0",
 	"options": {
 		"tray": false,
 		"appVisible": true,
@@ -112,8 +112,8 @@
 			"enabled": true
 		},
 		"visualizer": {
-			"enabled": true,
-			"type": "butterchurn",
+			"enabled": false,
+			"type": "wave",
 			"butterchurn": {
 				"preset": "martin [shadow harlequins shape code] - fata morgana",
 				"renderingFrequencyInMs": 500,
