@@ -1,3 +1,12 @@
-2026/01/05-23:40:23.717 185d Reusing MANIFEST /home/wildfox/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/01/05-23:40:23.717 185d Recovering log #34
-2026/01/05-23:40:23.778 185d Reusing old log /home/wildfox/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000034.log 
+2026/01/17-19:51:29.023 653 Reusing MANIFEST /home/wildfox/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/17-19:51:29.023 653 Recovering log #34
+2026/01/17-19:51:29.115 653 Reusing old log /home/wildfox/.config/YouTube Music/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000034.log 
+2026/01/17-20:03:48.331 653 Level-0 table #39: started
+2026/01/17-20:03:48.392 653 Level-0 table #39: 1872411 bytes OK
+2026/01/17-20:03:48.408 653 Delete type=0 #34
+2026/01/17-20:17:38.709 653 Compacting 1@1 + 1@2 files
+2026/01/17-20:17:38.727 653 Generated table #40@1: 1483 keys, 56397 bytes
+2026/01/17-20:17:38.727 653 Compacted 1@1 + 1@2 files => 56397 bytes
+2026/01/17-20:17:38.732 653 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/17-20:17:38.732 653 Delete type=2 #36
+2026/01/17-20:17:38.732 653 Delete type=2 #39
