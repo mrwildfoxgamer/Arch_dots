@@ -1,6 +1,0 @@
-2026/01/13-19:45:16.487 14802 Reusing MANIFEST /home/wildfox/.config/YouTube Music/Local Storage/leveldb/MANIFEST-000001
-2026/01/13-19:45:16.602 14802 Recovering log #24
-2026/01/13-19:45:16.612 14802 Reusing old log /home/wildfox/.config/YouTube Music/Local Storage/leveldb/000024.log 
-2026/01/13-19:53:50.239 14804 Level-0 table #28: started
-2026/01/13-19:53:50.256 14804 Level-0 table #28: 13390 bytes OK
-2026/01/13-19:53:50.271 14804 Delete type=0 #24
